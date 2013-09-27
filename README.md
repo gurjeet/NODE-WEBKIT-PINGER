@@ -9,6 +9,8 @@ I came across npm module `net-ping`, but it failed to compile against the latest
 
 So, it seems to be usable after all! Possibly a few C++ code edits to make it compatible with latest nodejs may get it to compile it again, and usable in this project.
 
-FWIW, the README of `net-ping` shows that it's a carefully designed package, so I have high hopes of it being a good quality project.
+FWIW, the README of `net-ping` shows that it's a carefully designed package, so I have high hopes of it being a good quality project. My fork of `net-ping` is at [2].
 
 [1] git://github.com/wearefractal/pinger.git
+[2] https://bitbucket.org/singh_gurjeet/node-net-ping
+
